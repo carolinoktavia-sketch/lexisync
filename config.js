@@ -1,12 +1,10 @@
-// =====================================================================
-//  KONFIGURASI FIREBASE — tempel milik Anda di sini (lihat Panduan Setup)
-//  Firebase Console › Project settings › Your apps › (</>) Web app › Config
-// =====================================================================
+// Konfigurasi Firebase LexiSync — project lexisync-tarcisius
+// (bukan rahasia; keamanan data dijaga oleh Firestore Rules)
 window.LEXISYNC_FIREBASE_CONFIG = {
-  apiKey: "GANTI_DENGAN_API_KEY",
-  authDomain: "GANTI.firebaseapp.com",
-  projectId: "GANTI",
-  storageBucket: "GANTI.firebasestorage.app",
-  messagingSenderId: "GANTI",
-  appId: "GANTI"
+  apiKey: "AIzaSyCiURHrKcMd_cu-GCd8EtoEWqHOxzYidig",
+  authDomain: "lexisync-tarcisius.firebaseapp.com",
+  projectId: "lexisync-tarcisius",
+  storageBucket: "lexisync-tarcisius.firebasestorage.app",
+  messagingSenderId: "384241812865",
+  appId: "1:384241812865:web:032fe57be2301fe7735480"
 };
